@@ -1,0 +1,11 @@
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraUI\bin\Debug\AccessControl.TiaraUI.exe.config
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraUI\bin\Debug\AccessControl.TiaraUI.exe
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraUI\bin\Debug\AccessControl.TiaraUI.pdb
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraUI\obj\Debug\AccessControl.TiaraUI.csproj.AssemblyReference.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraUI\obj\Debug\AccessControl.TiaraUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraUI\obj\Debug\AccessControl.TiaraUI.TiaraForm.resources
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraUI\obj\Debug\AccessControl.TiaraUI.Properties.Resources.resources
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraUI\obj\Debug\AccessControl.TiaraUI.csproj.GenerateResource.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraUI\obj\Debug\AccessControl.TiaraUI.csproj.CoreCompileInputs.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraUI\obj\Debug\AccessControl.TiaraUI.exe
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraUI\obj\Debug\AccessControl.TiaraUI.pdb
