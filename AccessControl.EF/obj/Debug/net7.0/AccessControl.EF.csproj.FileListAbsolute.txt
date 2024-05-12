@@ -1,0 +1,15 @@
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\bin\Debug\net7.0\AccessControl.EF.deps.json
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\bin\Debug\net7.0\AccessControl.EF.dll
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\bin\Debug\net7.0\AccessControl.EF.pdb
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\bin\Debug\net7.0\AccessControl.Domain.dll
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\bin\Debug\net7.0\AccessControl.Domain.pdb
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\obj\Debug\net7.0\AccessControl.EF.csproj.AssemblyReference.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\obj\Debug\net7.0\AccessControl.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\obj\Debug\net7.0\AccessControl.EF.AssemblyInfoInputs.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\obj\Debug\net7.0\AccessControl.EF.AssemblyInfo.cs
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\obj\Debug\net7.0\AccessControl.EF.csproj.CoreCompileInputs.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\obj\Debug\net7.0\AccessControl.EF.csproj.CopyComplete
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\obj\Debug\net7.0\AccessControl.EF.dll
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\obj\Debug\net7.0\refint\AccessControl.EF.dll
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\obj\Debug\net7.0\AccessControl.EF.pdb
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.EF\obj\Debug\net7.0\ref\AccessControl.EF.dll

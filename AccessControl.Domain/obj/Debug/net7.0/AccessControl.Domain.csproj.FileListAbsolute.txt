@@ -1,0 +1,12 @@
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Domain\bin\Debug\net7.0\AccessControl.Domain.deps.json
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Domain\bin\Debug\net7.0\AccessControl.Domain.dll
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Domain\bin\Debug\net7.0\AccessControl.Domain.pdb
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Domain\obj\Debug\net7.0\AccessControl.Domain.csproj.AssemblyReference.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Domain\obj\Debug\net7.0\AccessControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Domain\obj\Debug\net7.0\AccessControl.Domain.AssemblyInfoInputs.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Domain\obj\Debug\net7.0\AccessControl.Domain.AssemblyInfo.cs
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Domain\obj\Debug\net7.0\AccessControl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Domain\obj\Debug\net7.0\AccessControl.Domain.dll
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Domain\obj\Debug\net7.0\refint\AccessControl.Domain.dll
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Domain\obj\Debug\net7.0\AccessControl.Domain.pdb
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Domain\obj\Debug\net7.0\ref\AccessControl.Domain.dll

@@ -1,0 +1,12 @@
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Contract\bin\Debug\net7.0\AccessControl.Contract.deps.json
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Contract\bin\Debug\net7.0\AccessControl.Contract.dll
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Contract\bin\Debug\net7.0\AccessControl.Contract.pdb
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Contract\obj\Debug\net7.0\AccessControl.Contract.csproj.AssemblyReference.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Contract\obj\Debug\net7.0\AccessControl.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Contract\obj\Debug\net7.0\AccessControl.Contract.AssemblyInfoInputs.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Contract\obj\Debug\net7.0\AccessControl.Contract.AssemblyInfo.cs
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Contract\obj\Debug\net7.0\AccessControl.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Contract\obj\Debug\net7.0\AccessControl.Contract.dll
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Contract\obj\Debug\net7.0\refint\AccessControl.Contract.dll
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Contract\obj\Debug\net7.0\AccessControl.Contract.pdb
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.Contract\obj\Debug\net7.0\ref\AccessControl.Contract.dll

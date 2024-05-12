@@ -171,6 +171,7 @@
             // 
             // PanelDesktop
             // 
+            this.PanelDesktop.BackColor = System.Drawing.Color.Orange;
             this.PanelDesktop.Controls.Add(this.textBox1);
             this.PanelDesktop.Dock = System.Windows.Forms.DockStyle.Fill;
             this.PanelDesktop.Location = new System.Drawing.Point(0, 0);
@@ -180,9 +181,11 @@
             // 
             // textBox1
             // 
+            this.textBox1.BackColor = System.Drawing.Color.Orange;
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.textBox1.Font = new System.Drawing.Font("B Roya", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.textBox1.ForeColor = System.Drawing.SystemColors.Window;
             this.textBox1.Location = new System.Drawing.Point(0, 0);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(1105, 45);
@@ -196,6 +199,7 @@
             this.PagePanel.Name = "PagePanel";
             this.PagePanel.Size = new System.Drawing.Size(1105, 424);
             this.PagePanel.TabIndex = 2;
+            this.PagePanel.Paint += new System.Windows.Forms.PaintEventHandler(this.PagePanel_Paint);
             // 
             // Form1
             // 

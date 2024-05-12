@@ -104,8 +104,8 @@
     <None Include="Resources\1714846621000 %284%29.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AccessControl.TiaraUI\AccessControl.TiaraUI.csproj">
-      <Project>{3e0a1247-321d-4e46-9aa2-f0be5581805d}</Project>
+    <ProjectReference Include="..\AccessControl.TiaraU\AccessControl.TiaraUI.csproj">
+      <Project>{154bbadd-78c9-41df-8af1-fdd5ac4fe195}</Project>
       <Name>AccessControl.TiaraUI</Name>
     </ProjectReference>
   </ItemGroup>

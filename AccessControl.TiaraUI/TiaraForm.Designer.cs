@@ -28,21 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.StaffGridPanel = new System.Windows.Forms.Panel();
             this.SuspendLayout();
+            // 
+            // StaffGridPanel
+            // 
+            this.StaffGridPanel.Location = new System.Drawing.Point(600, 401);
+            this.StaffGridPanel.Name = "StaffGridPanel";
+            this.StaffGridPanel.Size = new System.Drawing.Size(682, 252);
+            this.StaffGridPanel.TabIndex = 0;
             // 
             // TiaraForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1283, 653);
+            this.Controls.Add(this.StaffGridPanel);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "TiaraForm";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.TiaraForm_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private System.Windows.Forms.Panel StaffGridPanel;
     }
 }
 

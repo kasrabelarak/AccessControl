@@ -1,5 +1,4 @@
-﻿using AccessControl.TiaraUI;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -214,7 +213,12 @@ namespace AccessControl
 
         private void TiaraButton_Click(object sender, EventArgs e)
         {
-            Loadform(new TiaraForm());
+            //Loadform(new TiaraForm());
+        }
+
+        private void PagePanel_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

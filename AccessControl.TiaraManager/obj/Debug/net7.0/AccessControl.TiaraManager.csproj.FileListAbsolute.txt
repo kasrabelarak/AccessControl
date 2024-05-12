@@ -1,0 +1,15 @@
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\bin\Debug\net7.0\AccessControl.TiaraManager.deps.json
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\bin\Debug\net7.0\AccessControl.TiaraManager.dll
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\bin\Debug\net7.0\AccessControl.TiaraManager.pdb
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\bin\Debug\net7.0\AccessControl.Contract.dll
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\bin\Debug\net7.0\AccessControl.Contract.pdb
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\obj\Debug\net7.0\AccessControl.TiaraManager.csproj.AssemblyReference.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\obj\Debug\net7.0\AccessControl.TiaraManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\obj\Debug\net7.0\AccessControl.TiaraManager.AssemblyInfoInputs.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\obj\Debug\net7.0\AccessControl.TiaraManager.AssemblyInfo.cs
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\obj\Debug\net7.0\AccessControl.TiaraManager.csproj.CoreCompileInputs.cache
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\obj\Debug\net7.0\AccessControl.TiaraManager.csproj.CopyComplete
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\obj\Debug\net7.0\AccessControl.TiaraManager.dll
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\obj\Debug\net7.0\refint\AccessControl.TiaraManager.dll
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\obj\Debug\net7.0\AccessControl.TiaraManager.pdb
+C:\Users\Kasra\source\repos\AccessControl\AccessControl.TiaraManager\obj\Debug\net7.0\ref\AccessControl.TiaraManager.dll
