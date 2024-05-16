@@ -32,8 +32,57 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Faran">
+      <HintPath>..\..\..\..\Desktop\Projects\Faran.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\..\..\..\Desktop\Projects\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\Projects\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NodaTime">
+      <HintPath>..\..\..\..\Desktop\Projects\NodaTime.dll</HintPath>
+    </Reference>
+    <Reference Include="Paliz.Utility.Fingerprint.Union">
+      <HintPath>..\..\..\..\Desktop\Projects\Paliz.Utility.Fingerprint.Union.dll</HintPath>
+    </Reference>
+    <Reference Include="PalizTiara.Api">
+      <HintPath>..\..\..\..\Desktop\Projects\PalizTiara.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="PalizTiara.Protocol">
+      <HintPath>..\..\..\..\Desktop\Projects\PalizTiara.Protocol.dll</HintPath>
+    </Reference>
+    <Reference Include="PostSharp">
+      <HintPath>..\..\..\..\Desktop\Projects\PostSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PostSharp.Patterns.Aggregation">
+      <HintPath>..\..\..\..\Desktop\Projects\PostSharp.Patterns.Aggregation.dll</HintPath>
+    </Reference>
+    <Reference Include="PostSharp.Patterns.Common">
+      <HintPath>..\..\..\..\Desktop\Projects\PostSharp.Patterns.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="PostSharp.Patterns.Diagnostics">
+      <HintPath>..\..\..\..\Desktop\Projects\PostSharp.Patterns.Diagnostics.dll</HintPath>
+    </Reference>
+    <Reference Include="PostSharp.Patterns.Diagnostics.Backends.Log4Net">
+      <HintPath>..\..\..\..\Desktop\Projects\PostSharp.Patterns.Diagnostics.Backends.Log4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="PostSharp.Patterns.Threading">
+      <HintPath>..\..\..\..\Desktop\Projects\PostSharp.Patterns.Threading.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Reactive.Core">
+      <HintPath>..\..\..\..\Desktop\Projects\System.Reactive.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Interfaces">
+      <HintPath>..\..\..\..\Desktop\Projects\System.Reactive.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Linq">
+      <HintPath>..\..\..\..\Desktop\Projects\System.Reactive.Linq.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />

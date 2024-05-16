@@ -265,6 +265,21 @@
         }
       }
     },
+    "C:\\Users\\Kasra\\source\\repos\\AccessControl\\AccessControl.TiaraManager\\AccessControl.TiaraManager.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kasra\\source\\repos\\AccessControl\\AccessControl.TiaraManager\\AccessControl.TiaraManager.csproj",
+        "projectName": "AccessControl.TiaraManager",
+        "projectPath": "C:\\Users\\Kasra\\source\\repos\\AccessControl\\AccessControl.TiaraManager\\AccessControl.TiaraManager.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
     "C:\\Users\\Kasra\\source\\repos\\AccessControl\\AccessControl.TiaraU\\AccessControl.TiaraUI.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -295,6 +310,9 @@
             "projectReferences": {
               "C:\\Users\\Kasra\\source\\repos\\AccessControl\\AccessControl.Shared\\AccessControl.Shared.csproj": {
                 "projectPath": "C:\\Users\\Kasra\\source\\repos\\AccessControl\\AccessControl.Shared\\AccessControl.Shared.csproj"
+              },
+              "C:\\Users\\Kasra\\source\\repos\\AccessControl\\AccessControl.TiaraManager\\AccessControl.TiaraManager.csproj": {
+                "projectPath": "C:\\Users\\Kasra\\source\\repos\\AccessControl\\AccessControl.TiaraManager\\AccessControl.TiaraManager.csproj"
               }
             }
           }

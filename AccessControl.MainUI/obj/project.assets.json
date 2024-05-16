@@ -1122,11 +1122,21 @@
           "Microsoft.WindowsDesktop.App.WindowsForms"
         ]
       },
+      "AccessControl.TiaraManager/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AccessControl.TiaraManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccessControl.TiaraManager.dll": {}
+        }
+      },
       "AccessControl.TiaraUI/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "AccessControl.Shared": "1.0.0"
+          "AccessControl.Shared": "1.0.0",
+          "AccessControl.TiaraManager": "1.0.0"
         },
         "compile": {
           "bin/placeholder/AccessControl.TiaraUI.dll": {}
@@ -2942,6 +2952,11 @@
       "type": "project",
       "path": "../AccessControl.Shared/AccessControl.Shared.csproj",
       "msbuildProject": "../AccessControl.Shared/AccessControl.Shared.csproj"
+    },
+    "AccessControl.TiaraManager/1.0.0": {
+      "type": "project",
+      "path": "../AccessControl.TiaraManager/AccessControl.TiaraManager.csproj",
+      "msbuildProject": "../AccessControl.TiaraManager/AccessControl.TiaraManager.csproj"
     },
     "AccessControl.TiaraUI/1.0.0": {
       "type": "project",

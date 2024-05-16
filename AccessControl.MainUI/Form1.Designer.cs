@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             PanelMenu = new Panel();
             TiaraButton = new FontAwesome.Sharp.IconButton();
             iconButton7 = new FontAwesome.Sharp.IconButton();
@@ -147,14 +148,14 @@
             // 
             // pictureBox2
             // 
-            pictureBox2.Location = new Point(122, 7);
+            pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
+            pictureBox2.Location = new Point(85, 3);
             pictureBox2.Margin = new Padding(4, 3, 4, 3);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(50, 53);
+            pictureBox2.Size = new Size(65, 69);
             pictureBox2.SizeMode = PictureBoxSizeMode.AutoSize;
             pictureBox2.TabIndex = 1;
             pictureBox2.TabStop = false;
-            pictureBox2.Click += pictureBox2_Click;
             // 
             // pictureBox1
             // 
@@ -210,7 +211,6 @@
             PagePanel.Name = "PagePanel";
             PagePanel.Size = new Size(1289, 489);
             PagePanel.TabIndex = 2;
-            PagePanel.Paint += PagePanel_Paint;
             // 
             // Form1
             // 

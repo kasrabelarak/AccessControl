@@ -1109,6 +1109,15 @@
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WindowsForms"
         ]
+      },
+      "AccessControl.TiaraManager/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AccessControl.TiaraManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccessControl.TiaraManager.dll": {}
+        }
       }
     }
   },
@@ -2899,11 +2908,17 @@
       "type": "project",
       "path": "../AccessControl.Shared/AccessControl.Shared.csproj",
       "msbuildProject": "../AccessControl.Shared/AccessControl.Shared.csproj"
+    },
+    "AccessControl.TiaraManager/1.0.0": {
+      "type": "project",
+      "path": "../AccessControl.TiaraManager/AccessControl.TiaraManager.csproj",
+      "msbuildProject": "../AccessControl.TiaraManager/AccessControl.TiaraManager.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
-      "AccessControl.Shared >= 1.0.0"
+      "AccessControl.Shared >= 1.0.0",
+      "AccessControl.TiaraManager >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2940,6 +2955,9 @@
           "projectReferences": {
             "C:\\Users\\Kasra\\source\\repos\\AccessControl\\AccessControl.Shared\\AccessControl.Shared.csproj": {
               "projectPath": "C:\\Users\\Kasra\\source\\repos\\AccessControl\\AccessControl.Shared\\AccessControl.Shared.csproj"
+            },
+            "C:\\Users\\Kasra\\source\\repos\\AccessControl\\AccessControl.TiaraManager\\AccessControl.TiaraManager.csproj": {
+              "projectPath": "C:\\Users\\Kasra\\source\\repos\\AccessControl\\AccessControl.TiaraManager\\AccessControl.TiaraManager.csproj"
             }
           }
         }

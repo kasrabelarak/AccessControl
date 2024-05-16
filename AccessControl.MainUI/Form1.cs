@@ -209,14 +209,6 @@ namespace AccessControl.MainUI
             Loadform(new TiaraForm());
         }
 
-        private void PagePanel_Paint(object sender, PaintEventArgs e)
-        {
 
-        }
-
-        private void pictureBox2_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

@@ -48,7 +48,7 @@
             dataGridView1.ColumnHeadersBorderStyle = DataGridViewHeaderBorderStyle.None;
             dataGridViewCellStyle1.Alignment = DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle1.BackColor = Color.Orange;
-            dataGridViewCellStyle1.Font = new Font("B Roya", 12F, FontStyle.Bold, GraphicsUnit.Point, 178);
+            dataGridViewCellStyle1.Font = new Font("B Roya", 12F, FontStyle.Bold, GraphicsUnit.Point);
             dataGridViewCellStyle1.ForeColor = Color.White;
             dataGridViewCellStyle1.SelectionBackColor = Color.Moccasin;
             dataGridViewCellStyle1.SelectionForeColor = SystemColors.HighlightText;
@@ -58,7 +58,7 @@
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { StaffCode, FirstName, LastName, Unit });
             dataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle2.BackColor = Color.White;
-            dataGridViewCellStyle2.Font = new Font("B Roya", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 178);
+            dataGridViewCellStyle2.Font = new Font("B Roya", 9.75F, FontStyle.Regular, GraphicsUnit.Point);
             dataGridViewCellStyle2.ForeColor = Color.Black;
             dataGridViewCellStyle2.SelectionBackColor = Color.Moccasin;
             dataGridViewCellStyle2.SelectionForeColor = Color.White;
@@ -66,14 +66,15 @@
             dataGridView1.DefaultCellStyle = dataGridViewCellStyle2;
             dataGridView1.EnableHeadersVisualStyles = false;
             dataGridView1.GridColor = Color.White;
-            dataGridView1.Location = new Point(12, 22);
+            dataGridView1.Location = new Point(20, 12);
+            dataGridView1.Margin = new Padding(4, 3, 4, 3);
             dataGridView1.MultiSelect = false;
             dataGridView1.Name = "dataGridView1";
             dataGridView1.ReadOnly = true;
             dataGridView1.RightToLeft = RightToLeft.Yes;
             dataGridView1.RowHeadersVisible = false;
             dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dataGridView1.Size = new Size(884, 363);
+            dataGridView1.Size = new Size(706, 280);
             dataGridView1.TabIndex = 0;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
@@ -111,12 +112,14 @@
             // 
             // StaffGrid
             // 
-            AutoScaleDimensions = new SizeF(6F, 13F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            AutoSize = true;
             BackColor = Color.Orange;
-            ClientSize = new Size(908, 406);
+            ClientSize = new Size(751, 329);
             Controls.Add(dataGridView1);
             FormBorderStyle = FormBorderStyle.None;
+            Margin = new Padding(4, 3, 4, 3);
             Name = "StaffGrid";
             Text = "Form1";
             Load += StaffGrid_Load;

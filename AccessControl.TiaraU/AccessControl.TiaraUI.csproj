@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AccessControl.Shared\AccessControl.Shared.csproj" />
+    <ProjectReference Include="..\AccessControl.TiaraManager\AccessControl.TiaraManager.csproj" />
   </ItemGroup>
 
 </Project>

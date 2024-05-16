@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v7.0": {
       "AccessControl.TiaraUI/1.0.0": {
         "dependencies": {
-          "AccessControl.Shared": "1.0.0"
+          "AccessControl.Shared": "1.0.0",
+          "AccessControl.TiaraManager": "1.0.0"
         },
         "runtime": {
           "AccessControl.TiaraUI.dll": {}
@@ -572,6 +573,123 @@
         "runtime": {
           "AccessControl.Shared.dll": {}
         }
+      },
+      "AccessControl.TiaraManager/1.0.0": {
+        "runtime": {
+          "AccessControl.TiaraManager.dll": {}
+        }
+      },
+      "PalizTiara.Api/3.0.1.0": {
+        "runtime": {
+          "PalizTiara.Api.dll": {
+            "assemblyVersion": "3.0.1.0",
+            "fileVersion": "3.0.1.0"
+          }
+        }
+      },
+      "PalizTiara.Protocol/3.0.1.0": {
+        "runtime": {
+          "PalizTiara.Protocol.dll": {
+            "assemblyVersion": "3.0.1.0",
+            "fileVersion": "3.0.1.0"
+          }
+        }
+      },
+      "System.Reactive.Linq/2.2.5.0": {
+        "runtime": {
+          "System.Reactive.Linq.dll": {
+            "assemblyVersion": "2.2.5.0",
+            "fileVersion": "2.2.5.40722"
+          }
+        }
+      },
+      "PostSharp.Patterns.Threading/6.0.33.0": {
+        "runtime": {
+          "PostSharp.Patterns.Threading.dll": {
+            "assemblyVersion": "6.0.33.0",
+            "fileVersion": "6.0.33.0"
+          }
+        }
+      },
+      "PostSharp.Patterns.Diagnostics/6.0.33.0": {
+        "runtime": {
+          "PostSharp.Patterns.Diagnostics.dll": {
+            "assemblyVersion": "6.0.33.0",
+            "fileVersion": "6.0.33.0"
+          }
+        }
+      },
+      "PostSharp/6.0.33.0": {
+        "runtime": {
+          "PostSharp.dll": {
+            "assemblyVersion": "6.0.33.0",
+            "fileVersion": "6.0.33.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      },
+      "PostSharp.Patterns.Common/6.0.33.0": {
+        "runtime": {
+          "PostSharp.Patterns.Common.dll": {
+            "assemblyVersion": "6.0.33.0",
+            "fileVersion": "6.0.33.0"
+          }
+        }
+      },
+      "log4net/2.0.8.0": {
+        "runtime": {
+          "log4net.dll": {
+            "assemblyVersion": "2.0.8.0",
+            "fileVersion": "2.0.8.0"
+          }
+        }
+      },
+      "PostSharp.Patterns.Diagnostics.Backends.Log4Net/6.0.33.0": {
+        "runtime": {
+          "PostSharp.Patterns.Diagnostics.Backends.Log4Net.dll": {
+            "assemblyVersion": "6.0.33.0",
+            "fileVersion": "6.0.33.0"
+          }
+        }
+      },
+      "NodaTime/2.4.4.0": {
+        "runtime": {
+          "NodaTime.dll": {
+            "assemblyVersion": "2.4.4.0",
+            "fileVersion": "2.4.4.0"
+          }
+        }
+      },
+      "System.Reactive.Core/2.2.5.0": {
+        "runtime": {
+          "System.Reactive.Core.dll": {
+            "assemblyVersion": "2.2.5.0",
+            "fileVersion": "2.2.5.40722"
+          }
+        }
+      },
+      "System.Reactive.Interfaces/2.2.5.0": {
+        "runtime": {
+          "System.Reactive.Interfaces.dll": {
+            "assemblyVersion": "2.2.5.0",
+            "fileVersion": "2.2.5.40722"
+          }
+        }
+      },
+      "PostSharp.Patterns.Aggregation/6.0.33.0": {
+        "runtime": {
+          "PostSharp.Patterns.Aggregation.dll": {
+            "assemblyVersion": "6.0.33.0",
+            "fileVersion": "6.0.33.0"
+          }
+        }
       }
     }
   },
@@ -997,6 +1115,81 @@
     },
     "AccessControl.Shared/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccessControl.TiaraManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PalizTiara.Api/3.0.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PalizTiara.Protocol/3.0.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Reactive.Linq/2.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostSharp.Patterns.Threading/6.0.33.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostSharp.Patterns.Diagnostics/6.0.33.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostSharp/6.0.33.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostSharp.Patterns.Common/6.0.33.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "log4net/2.0.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostSharp.Patterns.Diagnostics.Backends.Log4Net/6.0.33.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NodaTime/2.4.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Reactive.Core/2.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Reactive.Interfaces/2.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostSharp.Patterns.Aggregation/6.0.33.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }
